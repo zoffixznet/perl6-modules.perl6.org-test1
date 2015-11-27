@@ -1,0 +1,14 @@
+{
+    "name"         : "TestRepo1",
+    "version"      : "1.001001",
+    "description"
+        : "Test dist for modules.perl6.org build script",
+    "depends"      : [ ],
+    "provides"     : {
+        "TestRepo" : "lib/TestRepo1.pm6"
+    },
+    "author"       : "Zoffix Znet",
+    "authority"    : "zoffixznet",
+    "source-url"   : "git://github.com/zoffixznet/perl6-modules.perl6.org-test1.git"
+}
+
